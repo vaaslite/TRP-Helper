@@ -5,7 +5,7 @@ Author: `Vaaslite`
 
 Original Author: `Talyn`
 
-## Properties
+## Features
 **TRPHelper is** meant to be **a tool to customize your gameplay** and enhance **immersion**. You will be able to have **fully customizable** quotes (`/s`) or emotes (`/e`) your character will perform under certain conditions. **These actions include:**
 - Spells
 - Combat actions (dodge, block, parry, hurt, crit)
